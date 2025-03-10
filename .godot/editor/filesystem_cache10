@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1741430904
+::res://::1741598768
 ::res://New assets/::1741428852
 cave.png::CompressedTexture2D/CompressedTexture2D::9199168020879227908::1741428835::1741428852::1::::<><><>0<>0<>1fd966c6f768fc46cd4264ba8a13d254<>res://.godot/imported/cave.png-e7a1b7a706a7e9252d2ae3d138f152d6.ctex::
 character.png::CompressedTexture2D/CompressedTexture2D::8955935701077747779::1741428835::1741428852::1::::<><><>0<>0<>8cb0f9261da82c75ccd45b4a11d6784c<>res://.godot/imported/character.png-9042b0e173985b2f8e9719c1e2d50c1e.ctex::
@@ -9,9 +9,9 @@ log.png::CompressedTexture2D/CompressedTexture2D::2813818021738666482::174142883
 NPC_test.png::CompressedTexture2D/CompressedTexture2D::7259227192999749092::1741428835::1741428852::1::::<><><>0<>0<>e421e1caa24557dc724f72b00480fd48<>res://.godot/imported/NPC_test.png-39070d5539b0d92def2548d6bd147342.ctex::
 objects.png::CompressedTexture2D/CompressedTexture2D::8239753778234853907::1741428835::1741428852::1::::<><><>0<>0<>ec97e5016c5f682d5bc571424b8eaf7c<>res://.godot/imported/objects.png-9a43bf9daf46ab565c8cdd30fd575c2a.ctex::
 Overworld.png::CompressedTexture2D/CompressedTexture2D::6763314714558169593::1741428835::1741428852::1::::<><><>0<>0<>a98256d9497f75da532f66b917eb151a<>res://.godot/imported/Overworld.png-7813636f569856798e432883315cd0a1.ctex::
-::res://Youtube video assets/::1741430893
+::res://Youtube video assets/::1741432338
 20 Enemies.png::CompressedTexture2D/CompressedTexture2D::18353316206357573::1741428137::1741428800::1::::<><><>0<>0<>a96fabd77e2c31b07a5cf8794e0b2db8<>res://.godot/imported/20 Enemies.png-68f4555d5cf1f75f95d72e955d961c55.ctex::
-background_basic.tscn::PackedScene::5998603801353722993::1741430893::0::1::::<><><>0<>0<><>::uid://0g8uafls3c4b::::res://Youtube video assets/Background/Blue.png<>uid://irdt16vb5y75::::res://Youtube video assets/Terrain/Terrain (16x16).png<>uid://c3mg2m3hkeqa0::::res://New assets/Overworld.png
+background_basic.tscn::PackedScene::5998603801353722993::1741432338::0::1::::<><><>0<>0<><>::uid://0g8uafls3c4b::::res://Youtube video assets/Background/Blue.png<>uid://irdt16vb5y75::::res://Youtube video assets/Terrain/Terrain (16x16).png<>uid://c3mg2m3hkeqa0::::res://New assets/Overworld.png
 Hello.png::CompressedTexture2D/CompressedTexture2D::7201890806538742100::1741428137::1741428800::1::::<><><>0<>0<>7fc9d6f1d9cebb1071eba7186e7082e7<>res://.godot/imported/Hello.png-f8863cbf0fe28f7c7e482570fd098dc8.ctex::
 icon.svg::CompressedTexture2D/CompressedTexture2D::2952461367615097533::1741428137::1741428800::1::::<><><>0<>0<>b157ddf0fa11a88d92a48efedf4233c8<>res://.godot/imported/icon.svg-9b69e9f84dfbe096e0a2950293018fed.ctex::
 ::res://Youtube video assets/Background/::1741428801
